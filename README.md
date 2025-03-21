@@ -1,6 +1,6 @@
-# Deep Research Agent for the Indian Stock Market 🤖
+# Deep Research AI Agent for the Indian Stock Market 🤖
 
-This project is an AI-powered research assistant designed to help users analyze and gather insights about the Indian stock market.  It leverages the Deepseek API, LangChain, and various tools to fetch real-time data, summarize information, and answer user queries related to the Indian stock market.
+This project is an AI-powered research ai agent which is designed to help users analyze and gather insights about the Indian stock market.  It leverages the Deepseek API, LangChain, and various tools to fetch real-time data, summarize information, and answer user queries related to the Indian stock market.
 
 ## Features
 
@@ -93,4 +93,4 @@ For questions or feedback, feel free to reach out:
 *   📧 Email: ashunaukari01@gmail.com
 *   🌐 GitHub: Ashgen12
 
-Enjoy using the Deep Research Agent for the Indian Stock Market! 🚀
+Enjoy using the Deep Research AI Agent for the Indian Stock Market! 🚀
