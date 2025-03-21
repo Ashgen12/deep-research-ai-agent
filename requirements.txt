@@ -1,0 +1,11 @@
+langchain
+langchain_community
+streamlit
+beautifulsoup4
+requests
+python-dotenv
+transformers
+torch
+pandas
+yfinance
+faiss-cpu
