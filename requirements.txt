@@ -1,6 +1,6 @@
 langchain
 langchain_community
-streamlit
+gradio
 beautifulsoup4
 requests
 python-dotenv
